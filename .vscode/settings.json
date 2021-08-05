@@ -1,0 +1,11 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+    "[powershell]": {
+        "files.autoGuessEncoding": true
+        "files.encoding": "utf8bom"
+    }
+    "files.exclude": {
+        "**/.git": false
+    }
+}

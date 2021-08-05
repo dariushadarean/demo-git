@@ -7,4 +7,7 @@ def cleanup(string):
     new_string = new_string.capitalize()
     return new_string
 
+
 print(cleanup("   text de transformat "))
+print(cleanup('teST'))
+print(cleanup(" un Text"))
